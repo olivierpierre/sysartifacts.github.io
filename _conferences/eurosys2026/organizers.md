@@ -82,8 +82,10 @@ You can reach the AEC chairs at [aec-2026@eurosys.org](mailto:aec-2026@eurosys.o
 * Rajat Bhattacharjya, UC Irvine
 * Rajendran Shobha Ajin, University of Florence
 * Renzhi Xiao, Jiangxi University of Science and Technology
+* Rohan Dilip Bhosle, Microsoft
 * Ruwen Fan, Tsinghua University
 * Saber Ganjisaffar, University of California Riverside
+* Sankalpa Timilsina, Tennessee Technological University
 * Sheikh Muhammad Farjad, University of Nebraska at Omaha
 * Shengda Zhu, The University of Edinburgh
 * Shenghan Zheng, Dartmouth College
@@ -106,6 +108,7 @@ You can reach the AEC chairs at [aec-2026@eurosys.org](mailto:aec-2026@eurosys.o
 * Won Joon Yun, University of Texas at Austin
 * Xin Tan, The Chinese University of Hong Kong
 * Xi Pang, Purdue University
+* Yuang Xu, University of Southern California/UC Merced
 * Yankai Jiang, Northeastern University
 * Yibo Huang, The University of Texas at Austin
 * Yongkang Zhang, The Hong Kong University of Science and Technology
